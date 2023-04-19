@@ -1,5 +1,9 @@
 ## 머신러닝, 딥러닝 기초 개념 실습 자료 모음
 ---
 
-### 개념 정리는 아래의 블로그에 해두었음.
-https://velog.io/@jeongeunbae/series/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%94%A5%EB%9F%AC%EB%8B%9D
+### 개념 정리는 아래의 블로그에서 볼 수 있다.
+<a href="https://velog.io/@jeongeunbae"><img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+
+### 🤖 머신러닝 (좌측 포스트) | 딥러닝 (우측 포스트) 🤖
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jeongeunbae&tag=머신러닝)](https://github.com/jeongeunbae/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jeongeunbae&tag=딥러닝)](https://github.com/jeongeunbae/velog-readme-stats)
